@@ -173,7 +173,7 @@ export default function Home() {
             NFT collection
           </div>
           <div className={styles.description}>
-            {tokenIdsMinted}/10 NFT's have been minted
+            {tokenIdsMinted}/10 NFTs have been minted
           </div>
           {renderButton()}
         </div>
